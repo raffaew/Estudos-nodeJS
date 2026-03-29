@@ -1,5 +1,3 @@
-# Video Manager API
-
 Esta é uma API RESTful minimalista desenvolvida em **Node.js** utilizando o framework **Fastify**. O objetivo da aplicação é gerenciar um catálogo de vídeos, permitindo operações de criação, leitura, atualização e exclusão (CRUD).
 
 ## 🚀 Tecnologias
