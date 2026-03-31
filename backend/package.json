@@ -11,5 +11,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@neondatabase/serverless": "^1.0.2",
+    "D": "^1.0.0",
+    "dotenv": "^17.3.1",
+    "fastify": "^5.8.4",
+    "postgres": "^3.4.8"
+  }
 }

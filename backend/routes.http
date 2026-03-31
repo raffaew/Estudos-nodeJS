@@ -2,7 +2,7 @@ POST http://localhost:3333/videos
 Content-Type: application/json
 
 {
-    "title": "segundo",
+    "title": "primeiro vídeo",
     "description": "Esse é o primeiro vídeo",
     "duration": 180
 }
@@ -24,5 +24,5 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/66298627-482c-4771-95d2-0b9ed68df64e
+DELETE http://localhost:3333/videos/84d99739-dd0a-405a-a1f4-18b16dc8b1eb
 
